@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
 import pickle
 
-dta = pd.read_csv("/home/subhabrata/Downloads/spamhamdata.csv")
+dta = pd.read_csv("spamhamdata.csv")
 mail_data = dta.where((pd.notnull(dta)),'')
 mail_data.loc[mail_data['Category'] == 'spam', 'Category',] = 0
 mail_data.loc[mail_data['Category'] == 'ham', 'Category',] = 1
