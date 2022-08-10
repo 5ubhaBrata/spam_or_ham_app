@@ -1,4 +1,4 @@
 pandas
 sklearn
-pickle<=3.0
+pickle<=4.0
 streamlit
