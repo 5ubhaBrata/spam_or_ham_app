@@ -1,2 +1,6 @@
-
+pandas
+train_test_split
+TfidfVectorizer
+LinearSVC
+pickle
 streamlit
