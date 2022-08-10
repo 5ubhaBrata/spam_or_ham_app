@@ -1,7 +1,2 @@
-pip install -r requirements.txt
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.svm import LinearSVC
 import pickle
 import streamlit as st
