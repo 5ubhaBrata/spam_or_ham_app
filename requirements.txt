@@ -1,5 +1,5 @@
 pandas
-from sklearn.model_selection import train_test_split
+train_test_split from sklearn.model_selection
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
 pickle
