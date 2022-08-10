@@ -1,4 +1,4 @@
 pandas
 sklearn
-git://github.com/noteed/python-pickle.git
+https://github.com/python/cpython/blob/main/Lib/pickle.py
 streamlit
