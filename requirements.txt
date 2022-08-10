@@ -1,4 +1,4 @@
 pandas
 sklearn
-pickle = 3.8
+pickle == 3.8
 streamlit
