@@ -27,7 +27,7 @@ def main():
     """
     st.markdown(html_temp, unsafe_allow_html=True)
     
-    Mail = st.text_input("Mail", "Type Here")
+    Mail = st.text_input("Mail", "Type Your Mail Here")
     ham_html='''
     <div style = "background-color:#F4D03F; padding:10px">
     <h2 style = "color:white;text-align:center;"> This is not a Spam </h2>
