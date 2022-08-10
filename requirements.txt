@@ -1,6 +1,4 @@
 pandas
-train_test_split from sklearn.model_selection
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.svm import LinearSVC
+sklearn
 pickle
 streamlit
